@@ -3,7 +3,7 @@
 
 Text file ListaJMBG.txt contains a list of JMBG numbers.
 
-The application reads the file and checks each number if it is valid or not and analyze it accordingly.
+The application reads the file and checks each number if it is valid or not, analyze it accordingly and print out the result on the console. If the number is valid, it is written in the newly created txt file IspravniJMBG.txt.
 
 Information about the coding of the JMBG number can be found on the following link
 
